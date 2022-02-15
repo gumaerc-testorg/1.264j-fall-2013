@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This is a special file related to zip.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-264j-database-internet-and-systems-integration-technologies-fall-2013/d0d593667cc747456935e23dcbf5a188_HW7_sol.zip
+file: /media/courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/d0d593667cc747456935e23dcbf5a188_HW7_sol.zip
 file_type: application/zip
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: HW7_sol.zip
 uid: d0d59366-7cc7-4745-6935-e23dcbf5a188

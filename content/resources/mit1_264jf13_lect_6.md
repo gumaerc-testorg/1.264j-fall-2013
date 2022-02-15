@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding lecture 6.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-264j-database-internet-and-systems-integration-technologies-fall-2013/35bbe73255288a5ddecfbd3cc8bbc8f9_MIT1_264JF13_lect_6.pdf
+file: /media/courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/35bbe73255288a5ddecfbd3cc8bbc8f9_MIT1_264JF13_lect_6.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Lecture Notes & Exercises
+parent_type: CourseSection
 resourcetype: Document
 title: '1.264J Lecture 6 Notes: System process: UML, part 1'
 uid: 35bbe732-5528-8a5d-decf-bd3cc8bbc8f9

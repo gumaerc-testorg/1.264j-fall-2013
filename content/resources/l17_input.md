@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This is a special file related to zip.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-264j-database-internet-and-systems-integration-technologies-fall-2013/532ccc3a2bd2970c21684d8214d970b5_L17_input.zip
+file: /media/courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/532ccc3a2bd2970c21684d8214d970b5_L17_input.zip
 file_type: application/zip
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Lecture Notes & Exercises
+parent_type: CourseSection
 resourcetype: Other
 title: L17_input.zip
 uid: 532ccc3a-2bd2-970c-2168-4d8214d970b5

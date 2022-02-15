@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding homework solutions 9.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-264j-database-internet-and-systems-integration-technologies-fall-2013/6d7a202ad74cec662688fdcf9ae5c00a_MIT1_264JF13_HW9_sol.pdf
+file: /media/courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/6d7a202ad74cec662688fdcf9ae5c00a_MIT1_264JF13_HW9_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Homework Solutions 9
 uid: 6d7a202a-d74c-ec66-2688-fdcf9ae5c00a
