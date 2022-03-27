@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
+parent_uid: 5fa4a8fe-a152-f202-8c49-92784003b58c
 resourcetype: Other
 title: L18_sol.zip
 uid: a051b4d8-03b7-8ca0-0fa3-c5e5f7e806f6

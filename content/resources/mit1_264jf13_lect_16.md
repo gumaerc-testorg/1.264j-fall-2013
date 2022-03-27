@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
+parent_uid: 5fa4a8fe-a152-f202-8c49-92784003b58c
 resourcetype: Document
 title: '1.264J Lecture 16 Notes: Web: Introduction, HTTP'
 uid: cd376c68-2b66-c4de-5092-b6fe5d3d31b5

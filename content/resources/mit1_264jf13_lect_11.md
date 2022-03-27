@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
+parent_uid: 5fa4a8fe-a152-f202-8c49-92784003b58c
 resourcetype: Document
 title: '1.264J Lecture 11 Notes: Database: Data normalization'
 uid: 1b7d1390-3f41-0ba7-6b7b-e6a26f29ac93

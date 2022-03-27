@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a0a3c216-926e-4ae3-63e2-730c50fecd92
 resourcetype: Document
 title: Lecture 2 Case Study Solutions
 uid: f4a74ae0-6431-da44-bf88-30d521429ddd

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 26eb7a62-1846-55b9-5dff-48f16fd08f13
 resourcetype: Document
 title: Fall 2013 Quiz 1 solutions
 uid: 082dcf7d-acbc-05fc-900f-774e8da76a41

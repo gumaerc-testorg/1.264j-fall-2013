@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
+parent_uid: 5fa4a8fe-a152-f202-8c49-92784003b58c
 resourcetype: Document
 title: '1.264J Lecture 17 Notes: Web: XHTML, CSS'
 uid: 7468afb9-4f4b-53e2-0ced-2dd0b3fd9c95
