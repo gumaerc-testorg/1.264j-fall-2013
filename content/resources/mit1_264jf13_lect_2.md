@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding lecture 2.
-file: /media/courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/1fa272329932083be041cc75b9c27a6e_MIT1_264JF13_lect_2.pdf
+file: /courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/1fa272329932083be041cc75b9c27a6e_MIT1_264JF13_lect_2.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Document
 title: '1.264J Lecture 2 Notes: System process: Fundamentals'
 uid: 1fa27232-9932-083b-e041-cc75b9c27a6e
 ---
+This resource contains information regarding lecture 2.
+

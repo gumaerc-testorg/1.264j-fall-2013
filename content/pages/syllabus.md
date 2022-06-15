@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, prerequisites,
+  laptop requirements, software, readings, course requirements, extension policy for
+  problem sets, makeup policy for exams, and policy for academic honesty.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
