@@ -5,6 +5,7 @@ file: /courses/1-264j-database-internet-and-systems-integration-technologies-fal
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 5 Case Study Solutions
 uid: 9d9bc797-13b4-477a-96d3-fb11a3413b7e
 ---
 This file contains information regarding lecture 5 case study solutions.
-

@@ -5,6 +5,7 @@ file: /courses/1-264j-database-internet-and-systems-integration-technologies-fal
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: HW7_sol.zip
 uid: d0d59366-7cc7-4745-6935-e23dcbf5a188
 ---
 This is a special file related to zip.
-

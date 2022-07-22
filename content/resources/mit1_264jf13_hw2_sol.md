@@ -5,6 +5,7 @@ file: /courses/1-264j-database-internet-and-systems-integration-technologies-fal
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Homework Solutions 2
 uid: c177aa5f-ad6c-14e7-b10c-40e01b978742
 ---
 This file contains information regarding homework solutions 2.
-

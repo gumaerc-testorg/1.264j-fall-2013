@@ -5,6 +5,7 @@ file: /courses/1-264j-database-internet-and-systems-integration-technologies-fal
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: HW3_sol.vpp
 uid: 822bde44-aad3-756c-21bf-35013e617786
 ---
 This is a special file related to vpp.
-

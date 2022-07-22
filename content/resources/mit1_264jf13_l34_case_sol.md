@@ -5,6 +5,7 @@ file: /courses/1-264j-database-internet-and-systems-integration-technologies-fal
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 34 Case Studies Solutions
 uid: a7d82164-f27b-6764-41ef-0ea7d068b2a9
 ---
 This file contains information regarding lecture 34 case study solutions.
-

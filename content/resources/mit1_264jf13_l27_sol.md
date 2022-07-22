@@ -5,6 +5,7 @@ file: /courses/1-264j-database-internet-and-systems-integration-technologies-fal
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 27 Case Study Solutions
 uid: 373c658e-c6f6-26c5-eab2-11028b7eaa98
 ---
 This file contains information regarding lecture 27 case study solutions.
-
