@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides instructions for downloading and configuring the
+  required software tools for the course.
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 title: Tools
 uid: ddf99230-ad1b-c1e4-2e83-a4017e23e429
 ---
@@ -7,7 +12,7 @@ uid: ddf99230-ad1b-c1e4-2e83-a4017e23e429
 Laptop Requirements
 -------------------
 
-You will be using a variety of software in the course of completing your in-class exercises and homework [assignments]({{< baseurl >}}/pages/assignments). You will need to have access to a laptop with a wireless card running Windows 7 Professional or better for this class. For more information on this requirement, see the course [syllabus]({{< baseurl >}}/pages/syllabus). This sheet will assume you have Windows 7 Professional or better already installed. The database software also requires Windows 7 Service Pack 1 to be installed, which we also assume.
+You will be using a variety of software in the course of completing your in-class exercises and homework {{% resource_link a0a3c216-926e-4ae3-63e2-730c50fecd92 "assignments" %}}. You will need to have access to a laptop with a wireless card running Windows 7 Professional or better for this class. For more information on this requirement, see the course {{% resource_link 5018223f-77b9-efe8-d7bf-cb7348577ca8 "syllabus" %}}. This sheet will assume you have Windows 7 Professional or better already installed. The database software also requires Windows 7 Service Pack 1 to be installed, which we also assume.
 
 Software
 --------
