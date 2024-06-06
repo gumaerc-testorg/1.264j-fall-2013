@@ -11,7 +11,7 @@ uid: 1050932f-064b-9bce-3411-d84278620c42
 ---
 ## Course Overview
 
-This page focuses on the course _1.264J Database, Internet, and Systems Integration Technologies_ as it was taught by Dr. George Kocur in Fall 2013.
+This page focuses on the course *1.264J Database, Internet, and Systems Integration Technologies* as it was taught by Dr. George Kocur in Fall 2013.
 
 The course focuses on defining an engineering and business software system, producing a working version quickly, managing the overall process, and becoming very familiar with database and Web technologies that are central to current software systems. The course has no programming, except that students write database queries in SQL; the system is built using a set of tools that do not require software coding.
 
@@ -30,9 +30,9 @@ The goal is for students to learn to design, implement and manage engineering an
 ### Requirements Satisfied
 
 - H-Level Graduate Credit ![](/images/educator/icon-question-hlevel.png)
-- [Master of Engineering in Logistics](https://scm.mit.edu/) degree requirement
-- [Master of Engineering - Transportation](https://cee.mit.edu/education/graduate/graduate-degrees/) degree requirement
-- [Master of Science - Transportation](http://cee.mit.edu/graduate/mst) information technology requirement
+- Master of Engineering in Logistics degree requirement
+- Master of Engineering - Transportation degree requirement
+- Master of Science - Transportation information technology requirement
 
 ### Offered
 
@@ -67,13 +67,13 @@ During an average week, students were expected to spend 12 hours on the course, 
 ### Lecture
 
 - Met 3 times per week for 1.5 hours per session; 39 sessions total
-- Based around {{% resource_link 5fa4a8fe-a152-f202-8c49-92784003b58c "lectures, with an in-class exercise" %}} during most sessions
-- {{% resource_link a0a3c216-926e-4ae3-63e2-730c50fecd92 "Discussion of case studies" %}}
-- Two class sessions were spent on {{% resource_link 26eb7a62-1846-55b9-5dff-48f16fd08f13 "exams" %}}
+- Based around {{% resource_link "5fa4a8fe-a152-f202-8c49-92784003b58c" "lectures, with an in-class exercise" %}} during most sessions
+- {{% resource_link "a0a3c216-926e-4ae3-63e2-730c50fecd92" "Discussion of case studies" %}}
+- Two class sessions were spent on {{% resource_link "26eb7a62-1846-55b9-5dff-48f16fd08f13" "exams" %}}
 
 ### Out of class
 
-- {{% resource_link 74714794-5d07-5b04-2bca-ed733fba92ec "Readings" %}}
-- Downloading and installing {{% resource_link ddf99230-ad1b-c1e4-2e83-a4017e23e429 "tools" %}}
-- {{% resource_link a0a3c216-926e-4ae3-63e2-730c50fecd92 "Homework" %}}
+- {{% resource_link "74714794-5d07-5b04-2bca-ed733fba92ec" "Readings" %}}
+- Downloading and installing {{% resource_link "ddf99230-ad1b-c1e4-2e83-a4017e23e429" "tools" %}}
+- {{% resource_link "a0a3c216-926e-4ae3-63e2-730c50fecd92" "Homework" %}}
 - Completion of case studies and in-class exercises

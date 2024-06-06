@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding lecture notes 17.
 file: /courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/7468afb94f4b53e20ced2dd0b3fd9c95_MIT1_264JF13_lect_17.pdf
+file_size: 216336
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
