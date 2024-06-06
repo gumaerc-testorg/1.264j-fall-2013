@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding lecture 2 case study solutions.
 file: /courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/f4a74ae06431da44bf8830d521429ddd_MIT1_264JF13_L2_sol.pdf
+file_size: 537096
 file_type: application/pdf
 learning_resource_types:
 - Assignments

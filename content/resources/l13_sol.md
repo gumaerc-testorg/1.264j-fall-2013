@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a special file related to sql.
 file: /courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/262b8447ba4b7b072cd243aaaafa2816_L13_sol.sql
+file_size: 2539
 file_type: text/x-sql
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
