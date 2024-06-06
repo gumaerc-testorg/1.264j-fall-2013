@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding lecture 11.
 file: /courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/1b7d13903f410ba76b7be6a26f29ac93_MIT1_264JF13_lect_11.pdf
+file_size: 174223
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

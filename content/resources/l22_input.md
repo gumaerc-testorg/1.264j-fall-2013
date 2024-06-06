@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This is a special file related to zip. '
 file: /courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/c1842d2ac3eec52965f53dc35a6479b8_L22_input.zip
+file_size: 282054
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
