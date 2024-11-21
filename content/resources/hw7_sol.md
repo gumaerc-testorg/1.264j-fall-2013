@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file related to zip.
-file: /courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/d0d593667cc747456935e23dcbf5a188_HW7_sol.zip
+file: /ol-ocw-studio-app/courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/d0d593667cc747456935e23dcbf5a188_HW7_sol.zip
 file_size: 72512
 file_type: application/zip
 learning_resource_types:

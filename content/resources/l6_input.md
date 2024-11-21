@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file related to vpp.
-file: /courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/0c5bad5365db1a24e8b3cc4c5a2e3562_L6_input.vpp
+file: /ol-ocw-studio-app/courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/0c5bad5365db1a24e8b3cc4c5a2e3562_L6_input.vpp
 file_size: 448512
 file_type: application/octet-stream
 learning_resource_types: []
