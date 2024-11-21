@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This is a special file related to csv. '
-file: /courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/3f2b45c65d261e139a23e98d5254bf58_L15_input.csv
+file: /ol-ocw-studio-app/courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/3f2b45c65d261e139a23e98d5254bf58_L15_input.csv
 file_size: 545
 file_type: text/comma-separated-values
 learning_resource_types: []
