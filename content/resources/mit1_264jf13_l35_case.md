@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding lecture 35 case studies. '
-file: /ol-ocw-studio-app/courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/6773de09efe01bface5d228dc1a3ff11_MIT1_264JF13_L35_case.pdf
+file: /courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/6773de09efe01bface5d228dc1a3ff11_MIT1_264JF13_L35_case.pdf
 file_size: 58313
 file_type: application/pdf
 learning_resource_types:
