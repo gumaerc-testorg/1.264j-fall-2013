@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding homework solutions 2.
-file: /ol-ocw-studio-app/courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/c177aa5fad6c14e7b10c40e01b978742_MIT1_264JF13_HW2_sol.pdf
+file: /courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/c177aa5fad6c14e7b10c40e01b978742_MIT1_264JF13_HW2_sol.pdf
 file_size: 1344223
 file_type: application/pdf
 learning_resource_types:
