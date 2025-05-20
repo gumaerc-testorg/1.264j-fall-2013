@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture notes 35.
-file: /ol-ocw-studio-app/courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/d90b17405d21a2fb769bdcae7bbd1402_MIT1_264JF13_lect_35.pdf
+file: /courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/d90b17405d21a2fb769bdcae7bbd1402_MIT1_264JF13_lect_35.pdf
 file_size: 886201
 file_type: application/pdf
 learning_resource_types: []

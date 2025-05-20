@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding lecture 8.
-file: /ol-ocw-studio-app/courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/3967745f553dd0a4db286af2ff226421_MIT1_264JF13_lect_8.pdf
+file: /courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/3967745f553dd0a4db286af2ff226421_MIT1_264JF13_lect_8.pdf
 file_size: 283627
 file_type: application/pdf
 learning_resource_types: []

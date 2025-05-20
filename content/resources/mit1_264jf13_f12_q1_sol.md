@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding fall 2012 quiz 1 solutions. '
-file: /ol-ocw-studio-app/courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/bc1c6a689aac128cc40968b4b9f83097_MIT1_264JF13_F12_Q1_sol.pdf
+file: /courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/bc1c6a689aac128cc40968b4b9f83097_MIT1_264JF13_F12_Q1_sol.pdf
 file_size: 342172
 file_type: application/pdf
 learning_resource_types:
