@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/7661a4b7ce4cd695b105dc8fce906b2c_1-264_stat-students.png
+file: /ol-ocw-studio-app/courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/7661a4b7ce4cd695b105dc8fce906b2c_1-264_stat-students.png
 file_size: 2883
 file_type: image/png
 image_metadata:
