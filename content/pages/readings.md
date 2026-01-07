@@ -101,7 +101,7 @@ System process: CMMI, ISO
 {{< tdopen >}}
 
 
-Paulk, Mark C., et al. {{% resource_link "5c67fd51-cbbe-4551-b037-3d4ae4c56a2d" "Capability Maturity Model for Software, Version 1.1 (PDF)" %}}. Software Engineering Institute, Carnegie Mellon University. February 1993.
+Paulk, Mark C., et al. [Capability Maturity Model for Software, Version 1.1 (PDF)](http://resources.sei.cmu.edu/asset_files/TechnicalReport/1993_005_001_16211.pdf). Software Engineering Institute, Carnegie Mellon University. February 1993.
 
 
 {{< tdclose >}}
